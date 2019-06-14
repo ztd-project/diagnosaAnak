@@ -1,2 +1,0 @@
-# diagnosaAnak
-Project TA
